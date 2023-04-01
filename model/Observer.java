@@ -7,7 +7,6 @@ package model;
  * @param <Subject> the type of object an implementor of this interface
  *                is observing
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 public interface Observer< Subject > {
