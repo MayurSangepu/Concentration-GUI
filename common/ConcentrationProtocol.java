@@ -5,7 +5,6 @@ package common;
  * the contains the messaged passed between the client and server in order
  * to play the game.
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 public interface ConcentrationProtocol {
