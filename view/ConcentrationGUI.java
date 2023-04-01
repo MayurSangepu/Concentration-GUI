@@ -22,7 +22,6 @@ import java.util.List;
 /**
  * This file is responsible for the view and controller layer
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 
