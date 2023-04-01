@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * Represents the game board for the concentration game.
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 public class ConcentrationBoard implements ConcentrationProtocol{
