@@ -4,7 +4,6 @@ package common;
  * A class to represent abnormal situations that can arise from playing the
  * network game.
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 public class ConcentrationException extends Exception {
