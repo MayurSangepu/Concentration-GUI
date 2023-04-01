@@ -4,7 +4,6 @@ package game;
  * Represents a single card in the concentration game.  A card knows its
  * position in the board, its letter, and whether it is hidden or not.
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 public class ConcentrationCard {
