@@ -8,7 +8,6 @@ import java.net.ServerSocket;
  * ConcentrationClientServerThread because of which the multiple
  * clients can use the server.
  *
- * @author Ajay Yadav
  * @author Mayur Reddy Sangepu
  */
 public class ConcentrationServer {
