@@ -13,8 +13,6 @@ import java.net.Socket;
 /**
  * This class is the Controller layer
  * It is responsible for interacting with server and updating the model
- *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 public class ConcentrationController implements ConcentrationProtocol,Runnable {
