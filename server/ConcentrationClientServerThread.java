@@ -13,7 +13,6 @@ import java.net.Socket;
 /**
  * this class helps to create multiple server instances
  *
- * @author Ajay Yadav
  * @author Mayur Reddy Sangepu
  */
 public class ConcentrationClientServerThread extends Thread implements ConcentrationProtocol{
