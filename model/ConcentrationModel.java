@@ -8,7 +8,6 @@ import java.util.*;
  * This class represents the model layer and
  * is responsible for updating the view
  *
- * @author Ajay Yadav
  * @author Mayurreddy Sangepu
  */
 
